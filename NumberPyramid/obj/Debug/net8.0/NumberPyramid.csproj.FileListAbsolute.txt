@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\bin\Debug\net8.0\NumberPyramid.exe
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\bin\Debug\net8.0\NumberPyramid.deps.json
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\bin\Debug\net8.0\NumberPyramid.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\bin\Debug\net8.0\NumberPyramid.dll
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\bin\Debug\net8.0\NumberPyramid.pdb
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\NumberPyramid.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\NumberPyramid.dll
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\refint\NumberPyramid.dll
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\NumberPyramid.pdb
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\NumberPyramid.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumberPyramid\NumberPyramid\obj\Debug\net8.0\ref\NumberPyramid.dll
